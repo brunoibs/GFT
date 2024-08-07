@@ -1,0 +1,6 @@
+@GFT.Api_HostAddress = http://localhost:5062
+
+GET {{GFT.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
